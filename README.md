@@ -3,7 +3,7 @@
 ### 🌟 About Me
 I'm a Python enthusiast passionate about **Data Structures & Algorithms**.  
 Currently solving **LeetCode problems** and documenting my journey to improve problem-solving skills.  
-Focused on learning one step at a time — quality over quantity 💻✨
+Focused on learning one step at a time — quality over quantity 💻
 
 ---
 
